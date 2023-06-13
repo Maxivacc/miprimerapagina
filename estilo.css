@@ -1,3 +1,6 @@
+.greeting{
+  text-align: center;
+}
 .container-nav {
   display: flex;
   padding: 10px;
